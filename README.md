@@ -7,7 +7,7 @@ https://tracker.gg/developers/apps
 
 2.下のほうにAPIキーが出てくるのでそれをコピー。
 
-#使い方
+# 使い方
 1.setup.pyを起動させる。
 
 2.プラットフォームを選択して、IDを書いて、APIキーをコピペ。
